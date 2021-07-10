@@ -4,12 +4,15 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  color: white;
 }
 
 main {
   margin: 50;
+  background-color: #202020;
+  border:8px #3F3F3F solid;
+   color: white;
 }
-
 
 h1 {
   color: #7D99FF;
@@ -26,7 +29,9 @@ h3 {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-
+ a {
+   color: white; 
+ }
 
 
 .dropdown {
